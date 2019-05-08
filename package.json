@@ -1,0 +1,37 @@
+{
+  "name": "hauper-technologies-2048",
+  "version": "1.0.0",
+  "description": "A small clone of 2048 written with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "2048",
+    "game"
+  ],
+  "author": "Hauper Technologies",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.6",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.0",
+    "react": "^0.14.0",
+    "react-addons-pure-render-mixin": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-scripts": "0.9.5"
+  }
+}
